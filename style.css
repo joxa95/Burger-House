@@ -39,7 +39,7 @@ body {
 .backColor {
 	position: absolute;
 	width: 100vw;
-	height: 100%;
+	height: 106%;
 	background-color: rgba(0, 0, 0, 0.623);
 }
 .img {
@@ -50,7 +50,7 @@ body {
 	height: 101%;
 	width: 102vw;
 	transform: translateY(-203px) translateX(55px) rotate(-15deg);
-	transition: 1s;
+	transition: 1s ease;
 }
 
 .menu {
